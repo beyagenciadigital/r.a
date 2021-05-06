@@ -336,7 +336,7 @@ margin: 20px;
 }
 .skills .skills-content .left a{
     display: inline-block;
-    background: crimson;
+ 
     color: #fff;
     font-size: 18px;
     font-weight: 200;
@@ -346,10 +346,7 @@ margin: 20px;
     border: 2px solid crimson;
     transition: all 0.3s ease;
 }
-.skills .skills-content .left a:hover{
-    color: crimson;
-    background: none;
-}
+
 
 .skills .skills-content .right img{
     width: 300px;
@@ -811,35 +808,35 @@ footer {
 }
 .icons1 img {
     width: 50px;
-    padding: 0px 10px
+    padding: 10px 10px
 }
 .icons2 img {
     width: 50px;
-    padding: 0px 10px
+    padding: 10px 10px
 }
 .icons3 img {
     width: 50px;
-    padding: 0px 10px
+    padding: 10px 10px
 }
 .icons4 img {
     width: 50px;
-    padding: 0px 10px
+    padding: 10px 10px
 }
 .icons1 img:hover {
     width: 50px;
-    padding: 0px 10px
+    padding: 10px 10px
 }
 .icons2 img:hover {
     width: 50px;
-    padding: 0px 10px
+    padding: 10px 10px
 }
 .icons3 img:hover {
     width: 50px;
-    padding: 0px 10px
+    padding: 10px 10px
 }
 .icons4 img:hover {
     width: 50px;
-    padding: 0px 10px
+    padding: 10px 10px
 }
 
 .about .about-content .right .text, .skills .skills-content .left .text {
@@ -902,19 +899,19 @@ footer {
 }
 .icons1 img {
     width: 50px;
-    padding: 0px 10px
+    padding: 10px 10px
 }
 .icons2 img {
     width: 50px;
-    padding: 0px 10px
+    padding: 10px 10px
 }
 .icons3 img {
     width: 50px;
-    padding: 0px 10px
+    padding: 10px 10px
 }
 .icons4 img {
     width: 50px;
-    padding: 0px 10px
+    padding: 10px 10px
 }
 .icons1 img:hover {
     width: 50px;
@@ -922,15 +919,15 @@ footer {
 }
 .icons2 img:hover {
     width: 50px;
-    padding: 0px 10px
+    padding: 10px 10px
 }
 .icons3 img:hover {
     width: 50px;
-    padding: 0px 10px
+    padding: 10px 10px
 }
 .icons4 img:hover {
     width: 50px;
-    padding: 0px 10px
+    padding: 10px 10px
 }
 
 
