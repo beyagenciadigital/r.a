@@ -430,34 +430,34 @@ footer span a:hover{
 }
 .icons2 img {
     width: 50px;
-    padding: 0px 10px
+    padding: 20px 10px
 }
 .icons3 img {
     width: 50px;
-    padding: 0px 10px
+    padding: 20px 10px
 }
 .icons4 img {
     width: 50px;
-    padding: 0px 10px;
+    padding: 20px 10px;
 }
 .icons1 img:hover {
     width: 50px;
-    padding: 0px 10px;
+    padding: 20px 10px;
     content: url(imagens/wpamarelo.png);
 }
 .icons2 img:hover {
     width: 50px;
-    padding: 0px 10px;
+    padding: 20px 10px;
     content: url(imagens/fbamarelo.png);
 }
 .icons3 img:hover {
     width: 50px;
-    padding: 0px 10px;
+    padding: 20px 10px;
     content: url(imagens/igamarelo.png);
 }
 .icons4 img:hover {
     width: 50px;
-    padding: 0px 10px;
+    padding: 20px 10px;
     content: url(imagens/ggamarelo.png);
 }
 
