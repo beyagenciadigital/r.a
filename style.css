@@ -694,23 +694,23 @@ footer {
 }
 .icons1 img {
     width: 50px;
-    padding: 0px 10px
+    padding: 20px 10px
 }
 .icons2 img {
     width: 50px;
-    padding: 0px 10px
+    padding: 20px 10px
 }
 .icons3 img {
     width: 50px;
-    padding: 0px 10px
+    padding: 20px 10px
 }
 .icons4 img {
     width: 50px;
-    padding: 0px 10px
+    padding: 20px 10px
 }
 .icons1 img:hover {
     width: 50px;
-    padding: 0px 10px
+    padding: 20px 10px
 }
 .icons2 img:hover {
     width: 50px;
@@ -718,11 +718,11 @@ footer {
 }
 .icons3 img:hover {
     width: 50px;
-    padding: 0px 10px
+    padding: 20px 10px
 }
 .icons4 img:hover {
     width: 50px;
-    padding: 0px 10px
+    padding: 20px 10px
 }
 .home{
     display: flex;
